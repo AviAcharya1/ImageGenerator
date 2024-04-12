@@ -4,7 +4,7 @@ The Image Generator App is a simple web application that allows users to generat
 
 ## Live Demo
 
-You can check out the live demo of the Image Generator App at [- https://aviacharya1.github.io/ImageGenerator/](- https://aviacharya1.github.io/ImageGenerator/).
+You can check out the live demo of the Image Generator App at (- https://aviacharya1.github.io/ImageGenerator/).
 
 ## Features
 
@@ -23,7 +23,7 @@ You can check out the live demo of the Image Generator App at [- https://aviacha
 
 To get a local copy of the project up and running, follow these steps:
 
-1. Clone the repository: [https://aviacharya1.github.io/ImageGenerator.git/](https://github.com/AviAcharya1/ImageGenerator.git)
+1. Clone the repository: [https://aviacharya1.github.io/ImageGenerator.git/] (https://github.com/AviAcharya1/ImageGenerator.git)
 2. Open the project directory in your preferred code editor.
 3. Optionally, you can use a live server extension in your code editor or open the `index.html` file directly in your web browser.
 
