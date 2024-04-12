@@ -48,6 +48,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Unsplash API](https://unsplash.com/developers) for providing access to high-quality placeholder images.
 
+##Application is live:
+
+- https://aviacharya1.github.io/ImageGenerator/
+
 ## Contact
 
-If you have any questions or concerns, feel free to reach out to the project maintainer at [your-aviacharyasr@gmail.com](mailto:aviacharyasr@gmail.com).
+If you have any questions or concerns, feel free to reach out to the project maintainer at [aviacharyasr@gmail.com](mailto:aviacharyasr@gmail.com).
